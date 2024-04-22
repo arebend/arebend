@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on IPEKA. https://ipeka.org/<br>🌱 I’m currently learning full stack JavaScript  development.<br>💬 Ask me about React, Vue, Nodejs or any JavaScript framework.<br>📫 How to reach me sunghilee12@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/aron-benedictus-742513116/
+🔭 I’m currently working on IPEKA. https://ipeka.org/<br>🌱 I’m currently learning full stack JavaScript  development.<br>💬 Ask me about React, Nodejs or any JavaScript framework.<br>📫 How to reach me sunghilee12@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/aron-benedictus-742513116/
 
 
 ## 🌐 Socials:
